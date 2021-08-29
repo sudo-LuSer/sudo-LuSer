@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudo-LuSer&theme=onedark&margin-w=15&margin-h=15&column=7" alt="sudo-LuSer" /></a> </p>
 
 - 🔭 I’m currently working on Mathematical programming 
-- 🌱 I’m currently learning C++ , Python 
+- 🌱 I’m currently learning C++ , Python and Javascript 
 - 🤔 I’m looking for help with advanced python programming
 - 💬 Ask me about Competitive programming , Mathematical programming , web programming 
 - 📫 How to reach me: <a href="https://facebook.com/hitar.nasr">Facebook</a>  , <a href="hhitar9485@gmail.com">My Gmail</a> , <a href="https://instagram.com/Nasroallah.cpp" target="blank">Instagram<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nasroallah.cpp" height="30" width="40" /></a> or <a href="https://hitar.netlify.app">My Portfolio</a>
