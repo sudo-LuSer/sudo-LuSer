@@ -1,5 +1,7 @@
 <h1>Hi there 👋 I'm sudo-Lu$er (Nasroallah)</h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudo-LuSer&theme=onedark&margin-w=15&margin-h=15&column=7" alt="sudo-LuSer" /></a> </p>
+
 - 🔭 I’m currently working on Mathematical programming 
 - 🌱 I’m currently learning C++ , Python 
 - 🤔 I’m looking for help with advanced python programming
