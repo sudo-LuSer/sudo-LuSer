@@ -8,6 +8,5 @@
 - 📫 How to reach me: <a href="https://facebook.com/hitar.nasr">Facebook</a>  , <a href="mailto:hhitar9485@gmail.com" onclick="alert('hey');">My Gmail</a> , <a href="https://instagram.com/boredom_2" target="blank">Instagram<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="boredom_2" height="30" width="40" /></a> or <a href="https://hitar.netlify.app">My Portfolio</a> or you can share your ideas from my web site <a href="https://hitar-research.netlify.app">Here</a>
 - ⚡ Fun fact: I love graph coloring
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sudo-LuSer&count_private=true&include_all_commits=true&theme=onedark" alt="sudo-LuSer" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-LuSer&layout=compact&theme=onedark&langs_count=15" />-->
 </div>
